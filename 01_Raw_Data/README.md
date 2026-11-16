@@ -1,0 +1,1 @@
+This folder is intended for the original raw data obtained from the International Diabetes Federation (IDF) Diabetes Atlas, 11th edition (2025), Kenya country profile/export. The original source file should remain unchanged. Include it only where redistribution is permitted by the source terms.
